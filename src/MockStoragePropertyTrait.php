@@ -21,7 +21,7 @@ namespace Apigee\MockClient;
 use Apigee\MockClient\Psr7\SerializableMessageWrapper;
 use Http\Message\RequestMatcher;
 use Psr\Http\Message\ResponseInterface;
-use SuperClosure\SerializableClosure;
+//use SuperClosure\SerializableClosure;
 use Laravel\SerializableClosure\SerializableClosure;
 //use Opis\Closure\SerializableClosure;
 
